@@ -1,4 +1,7 @@
 # Attack the Auction
+This is lab03 completed by Aditiya Srivastava[https://github.com/indianwolverine], Nathaniel Ng[https://github.com/nathanielng2017], and Victor Cheng[https://github.com/victorychain].
+
+# Attack the Auction
 Welcome to lab03. In this assignment you'll be getting acclimated with external calls, inheritance, and smart contract security.
 
 ## Homework Instructions
